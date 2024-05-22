@@ -2,6 +2,8 @@
 
 Implement a function `numberToWords` that converts an integer between 0 and 1,000,000 into its word representation. For example, the number 1 should become "one", and the number 2500 should become "two thousand five hundred".
 
+This task can also be broken down into two parts: first, convert an integer between 0 and 1,000, and then extend it to handle numbers between 0 and 1,000,000.
+
 ### Implementation Outline (These can be used as hints for the candidate if needed)
 
 Here's a high-level outline of how the function could be implemented:
